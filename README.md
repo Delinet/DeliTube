@@ -20,4 +20,10 @@ in this case getVideoID retrieve sC0Grj_y0P8
 www.youtube.com/watch?v=sC0Grj_y0P8&list=
 in this case getVideoID retrieve sC0Grj_y0P8
 
+https://youtube.googleapis.com/v/sC0Grj_y0P8
+in this case getVideoID retrieve sC0Grj_y0P8
+
+https://www.youtube.com/embed/sC0Grj_y0P8
+in this case getVideoID retrieve sC0Grj_y0P8
+
 
